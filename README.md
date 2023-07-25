@@ -9,7 +9,7 @@
 
 - `test` Folder contains **20** podcasts
 - `train` Folder contains **171** podcasts; 2 podcasts were removed from this split folder
-- `validation`Folder contains **6** podcasts
+- `validation` Folder contains **6** podcasts
 
 #### Each split folder ("test", "train", "validation") contains the same format of information:
     [split_folder]: 
