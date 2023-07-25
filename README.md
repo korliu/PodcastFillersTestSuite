@@ -1,5 +1,7 @@
 ###### Korey Liu, koreyliu@buffalo.edu
 
+Google Drive Zip File download: https://drive.google.com/file/d/1ttgKLtobJsCHrVfut6YQ9IAXnVkRX9cA/view?usp=sharing
+
 #### Dataset created using resources:
 1. Description on PodcastFillers data: https://podcastfillers.github.io/dataset/
 2. Paper on how dataset was created: https://arxiv.org/pdf/2203.15135.pdf
